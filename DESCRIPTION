@@ -1,8 +1,9 @@
 Package: rdummypackage
 Title: A dummy package to test deploy
-Description: 
+Description: A dummy package to test deploy
 Version: 0.1
 Author: Chenliang Xu
+Maintainer: Chenliang Xu <lucky.random@gmail.com>
 Depends: R (>= 3.0.2)
 License: GPL-3
 LazyData: true
