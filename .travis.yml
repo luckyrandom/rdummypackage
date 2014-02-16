@@ -17,7 +17,7 @@ script: ./travis-tool.sh run_tests
 on_failure:
   - ./travis-tool.sh dump_logs
 
-on_success:
+after_success:
   - curl -OL https://github.com/luckyrandom/r-deploy-git/raw/master/deploy-service.sh
   - chmod 755 ./deploy-service.sh
   - ./deploy-service.sh
