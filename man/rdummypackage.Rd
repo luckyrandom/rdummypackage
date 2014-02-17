@@ -4,6 +4,6 @@
 \alias{rdummypackage-package}
 \title{rdummypackage}
 \description{
-Something...for push....
+Something...for push....edit doc
 }
 
