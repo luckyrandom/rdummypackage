@@ -32,7 +32,7 @@ notifications:
 
 env:
   global:
-    secure: d+d225W5SzeGmqw9EQ+y4wesJmQNEuHUce8IZryD6x8hUcz9Dt/9rRpuYAyou324E5Dtuinwx6pp82/ulGBUz8BF74rzqw5dp4WIMJUwWQP+TdeB+hUVY/nJdLDIAbDfnonCvxG3e5z7LVTdEw8RhSPxdG6+1drV8H12k546alI=
+    secure: "ewYGcSNsiPAkLvDrZjkiFID1hY/dyNbex3LO98zY7/ttllzvnnPBinmpmOgs3ndI9xf56BvGYnwli08b2W6Wq/FrWjcno7hix94q9ZtlssYbSq7yeJsFN74TOJlKPm1rmLAier78AQs9ovt/RSZklZDSEtvQLH/hFRf0/w7sdNA="
 
 branches:
   except:
