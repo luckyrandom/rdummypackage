@@ -4,6 +4,6 @@
 \alias{rdummypackage-package}
 \title{rdummypackage}
 \description{
-rdummypackage
+Something...for push
 }
 
