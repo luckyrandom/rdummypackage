@@ -19,6 +19,8 @@ on_failure:
   - ./travis-tool.sh dump_logs
 
 after_success:
+  - git config --global user.email "luckyrand@gmail.com"
+  - git config --global user.name "Chenliang Xu"
   - curl -OL https://github.com/luckyrandom/r-deploy-git/raw/master/deploy-service.sh
   - chmod 755 ./deploy-service.sh
   - ./deploy-service.sh
