@@ -1,6 +1,6 @@
 #' rdummypackage
 #'
-#' Something...for push....
+#' Something...for push....edit doc
 #' @name rdummypackage
 #' @docType package
 NULL
