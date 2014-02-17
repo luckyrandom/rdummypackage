@@ -4,3 +4,5 @@
 #' @name rdummypackage
 #' @docType package
 NULL
+
+a <- "
